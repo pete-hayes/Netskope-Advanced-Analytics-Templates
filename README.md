@@ -7,8 +7,8 @@ Importable templates for [Netskope Advanced Analytics](https://www.netskope.com/
 | **Netskope Data Center Usage** | - Secure Web Gateway<br>- Private Access | Individual Netskope Data Center utilization statistics. <br>Utilizes Transaction Events and Network Events for data. | [Download](./Netskope%20Data%20Center%20Usage.json)<br><br><a href="https://github.com/user-attachments/assets/09376ccf-8062-4ba5-8315-745df3fd514f" />Screenshot</a>|
 
 ## Prerequisites
-- Advanced Analytics
-- Netskope [data retention duration/licensing](https://docs.netskope.com/en/data-retention) for desired reporting timeframes
+- Netskope Advanced Analytics
+- Netskope [data retention duration/licensing](https://docs.netskope.com/en/data-retention) for desired reporting timeframe.
 
 ## Usage
 1. Login to your Netskope Administrator Portal.
