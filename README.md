@@ -1,10 +1,10 @@
 # Netskope-Advanced-Analytics-Templates
 Importable templates for [Netskope Advanced Analytics](https://www.netskope.com/products/advanced-analytics).
 
-| Template | Product | Description | Files
-|----------|--------------|----------|----------|
-|**User Activity Comparison**<br/><a href="https://github.com/user-attachments/assets/b660b464-ca60-4ff4-89e3-8a2940e85980" />Screenshot</a>|- Secure Web Gateway|Compare specific user activity to either a security group (e.g., peers) or the organization.<br>Utilizes Transaction Events for data.|[Download](./User%20Activity%20Comparison%20Report.json)|
-| **Netskope Data Center Usage**<br/><a href="https://github.com/user-attachments/assets/09376ccf-8062-4ba5-8315-745df3fd514f" />Screenshot</a> | - Secure Web Gateway<br>- Private Access | Individual Netskope Data Center utilization statistics. <br>Utilizes Transaction Events and Network Events for data. | [Download](./Netskope%20Data%20Center%20Usage.json)|
+| Template | Description | Files
+|----------|----------|----------|
+|**User Activity Comparison**<br/><a href="https://github.com/user-attachments/assets/b660b464-ca60-4ff4-89e3-8a2940e85980" />Screenshot</a>|Compare specific user Secure Web Gateway activity to either a security group (e.g., peers) or the organization.<br><br>Utilizes Transaction Events for data.|[Download](./User%20Activity%20Comparison%20Report.json)|
+| **Netskope Data Center Usage**<br/><a href="https://github.com/user-attachments/assets/09376ccf-8062-4ba5-8315-745df3fd514f" />Screenshot</a> | Individual Netskope Data Center utilization statistics for Secure Web Gateway and Private Access traffic. <br><br>Utilizes Transaction Events and Network Events for data. | [Download](./Netskope%20Data%20Center%20Usage.json)|
 
 ## Prerequisites
 - Netskope Advanced Analytics
