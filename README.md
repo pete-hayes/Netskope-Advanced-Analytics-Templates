@@ -8,7 +8,7 @@ Importable templates for [Netskope Advanced Analytics](https://www.netskope.com/
 
 ## Prerequisites
 - Advanced Analytics
-- Applicable Netskope [data retention duration/licensing](https://docs.netskope.com/en/data-retention) for desired reporting timeframes
+- Netskope [data retention duration/licensing](https://docs.netskope.com/en/data-retention) for desired reporting timeframes
 
 ## Usage
 1. Login to your Netskope Administrator Portal.
