@@ -5,7 +5,7 @@ Importable templates for [Netskope Advanced Analytics](https://www.netskope.com/
 |----------|----------|----------|
 |**User Activity Comparison**<br/><br/><a href="https://github.com/user-attachments/assets/b660b464-ca60-4ff4-89e3-8a2940e85980" />Screenshot</a>|Compare specific user Secure Web Gateway activity to either a security group (e.g., peers) or the organization.<br><br>Utilizes Transaction Events for data.|[Download](./User%20Activity%20Comparison%20Report.json)|
 | **Netskope Data Center Usage**<br/><br/><a href="https://github.com/user-attachments/assets/09376ccf-8062-4ba5-8315-745df3fd514f" />Screenshot</a> | Individual Netskope Data Center utilization statistics for Secure Web Gateway and Private Access traffic.<br><br>Utilizes Transaction Events and Network Events for data. | [Download](./Netskope%20Data%20Center%20Usage.json)|
-| **User Search Engine Queries** | User search queries sent to most websites in the Search Engine category, with separate result tables for Google, Bing, Ask.com, Yahoo Search, Yandex, and DuckDuckGo.<br><br>Utilizes Transaction Events for data.|[Download](./User%20Search%20Engine%20Queries.json)|
+| **User Search Engine Queries**<br/><br/><a href="https://github.com/user-attachments/assets/f68162d7-536f-46c9-b937-a018d0f57a28" />Screenshot</a>| User search queries sent to most websites in the Search Engine category, with separate result tables for Google, Bing, Ask.com, Yahoo Search, Yandex, and DuckDuckGo.<br><br>Utilizes Transaction Events for data.|[Download](./User%20Search%20Engine%20Queries.json)|
 ## Prerequisites
 - Netskope Advanced Analytics
 - Netskope [data retention duration/licensing](https://docs.netskope.com/en/data-retention) for desired reporting timeframe.
