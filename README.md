@@ -1,4 +1,4 @@
-# Netskope-Advanced-Analytics-Templates
+# Netskope Advanced Analytics Templates
 Importable templates for [Netskope Advanced Analytics](https://www.netskope.com/products/advanced-analytics).
 
 | Template | Description | Files
